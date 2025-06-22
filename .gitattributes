@@ -4,3 +4,6 @@
 *.pth filter=lfs
 *.wav filter=lfs
 *.obj filter=lfs
+*.glb filter=lfs
+*.stl filter=lfs
+*.ply filter=lfs
