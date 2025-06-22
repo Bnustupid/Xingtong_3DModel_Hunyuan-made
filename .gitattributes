@@ -3,3 +3,4 @@
 *.zip filter=lfs
 *.pth filter=lfs
 *.wav filter=lfs
+*.obj filter=lfs
