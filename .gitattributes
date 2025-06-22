@@ -1,0 +1,5 @@
+*.psd filter=lfs
+*.ai filter=lfs
+*.zip filter=lfs
+*.pth filter=lfs
+*.wav filter=lfs
